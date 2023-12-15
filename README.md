@@ -1,3 +1,3 @@
 # zigZag
 
-In html, css and javascript
+- Simple grid HTML, CSS and Javascript.
