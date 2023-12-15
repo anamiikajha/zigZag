@@ -1,3 +1,3 @@
 # zigZag
 
-- Simple grid HTML, CSS and Javascript.
+- Simple parallel grid made in HTML, CSS and Javascript.
